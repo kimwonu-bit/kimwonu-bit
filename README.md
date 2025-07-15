@@ -1,8 +1,6 @@
-## Hi there 👋
 
-<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome)
-**kimwonu-bit/kimwonu-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
