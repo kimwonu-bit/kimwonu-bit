@@ -21,4 +21,4 @@
   <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonu-bit)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/kwnu09/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnu09)](https://solved.ac/kwnu09/)
