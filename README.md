@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
+<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonu-bit)](https://github.com/anuraghazra/github-readme-stats)
 </div>
