@@ -14,20 +14,3 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-
-<br/><br/>
-
-### 📊 GitHub Stats
-
-<!-- 깃허브 활동 통계 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwonu-bit&show_icons=true&theme=tokyonight&hide_border=true)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonu-bit&layout=compact&theme=tokyonight&hide_border=true)
-
-<br/>
-
-### 🎯 Solved.ac
-
-<!-- 백준 solved.ac -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwnu09)](https://solved.ac/kwnu09/)
-</div>
